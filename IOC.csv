@@ -118,8 +118,8 @@ Jordan,JOR,JOR,JOR
 Kazakhstan,KAZ,KAZ,KAZ
 Kenya,KEN,KEN,KEN
 Kiribati,KIR,,KIR
-"Korea, Democratic People's Rep. (North)[13]",PRK,PRK,PRK
-"Korea, Republic of (South)[14]",KOR,KOR,KOR
+"Korea, Democratic People's Rep. (North)",PRK,PRK,PRK
+"Korea, Republic of (South)",KOR,KOR,KOR
 Kosovo,KOS,KOS,[15]
 Kuwait,KUW,KUW,KWT
 Kyrgyzstan,KGZ,KGZ,KGZ
@@ -132,7 +132,7 @@ Libya,LBA,LBY,LBY
 Liechtenstein,LIE,LIE,LIE
 Lithuania,LTU,LTU,LTU
 Luxembourg,LUX,LUX,LUX
-Macau,[16],MAC,MAC
+Macau,,MAC,MAC
 Madagascar,MAD,MAD,MDG
 Malawi,MAW,MWI,MWI
 Malaysia,MAS,MAS,MYS
@@ -167,7 +167,7 @@ Niue,NIU,,NIU
 Norfolk Island,,,NFK
 Northern Ireland,,NIR,[8]
 Northern Mariana Islands,,,MNP
-North Macedonia[18],MKD,MKD,MKD
+North Macedonia,MKD,MKD,MKD
 Norway,NOR,NOR,NOR
 Oman,OMA,OMA,OMN
 Pakistan,PAK,PAK,PAK
@@ -183,20 +183,20 @@ Poland,POL,POL,POL
 Portugal,POR,POR,PRT
 Puerto Rico,PUR,PUR,PRI
 Qatar,QAT,QAT,QAT
-R¨¦union,,,REU
+Rï¿½ï¿½union,,,REU
 Romania,ROU,ROU,ROU
 Russian Federation,RUS,RUS,RUS
 Rwanda,RWA,RWA,RWA
-Saint Barth¨¦lemy,,,BLM
+Saint Barthï¿½ï¿½lemy,,,BLM
 "Saint Helena, Ascension and Tristan da Cunha",,,SHN
 Saint Kitts and Nevis,SKN,SKN,KNA
 Saint Lucia,LCA,LCA,LCA
 Saint Martin (French part),,,MAF
 Saint Pierre and Miquelon,,,SPM
 Saint Vincent and the Grenadines,VIN,VIN,VCT
-Samoa[2],SAM,SAM,WSM
+Samoa,SAM,SAM,WSM
 San Marino,SMR,SMR,SMR
-S?o Tom¨¦ and Pr¨ªncipe,STP,STP,STP
+S?o Tomï¿½ï¿½ and Prï¿½ï¿½ncipe,STP,STP,STP
 Saudi Arabia,KSA,KSA,SAU
 Scotland,,SCO,[8]
 Senegal,SEN,SEN,SEN
@@ -220,11 +220,11 @@ Svalbard and Jan Mayen,,,SJM
 Sweden,SWE,SWE,SWE
 Switzerland,SUI,SUI,CHE
 Syria,SYR,SYR,SYR
-Taiwan[19],TPE,TPE,TWN
+Taiwan,TPE,TPE,TWN
 Tajikistan,TJK,TJK,TJK
 Tanzania,TAN,TAN,TZA
 Thailand,THA,THA,THA
-Timor-Leste[20],TLS,TLS,TLS
+Timor-Leste,TLS,TLS,TLS
 Togo,TOG,TOG,TGO
 Tokelau,,,TKL
 Tonga,TGA,TGA,TON
@@ -237,10 +237,10 @@ Tuvalu,TUV,,TUV
 Uganda,UGA,UGA,UGA
 Ukraine,UKR,UKR,UKR
 United Arab Emirates,UAE,UAE,ARE
-United Kingdom[21],GBR,,GBR
+United Kingdom,GBR,,GBR
 United States,USA,USA,USA
 United States Minor Outlying Islands,,,UMI
-United States Virgin Islands[22],ISV,VIR,VIR
+United States Virgin Islands,ISV,VIR,VIR
 Uruguay,URU,URU,URY
 Uzbekistan,UZB,UZB,UZB
 Vanuatu,VAN,VAN,VUT
