@@ -694,7 +694,6 @@ Rank,NOC,Gold,Silver,Bronze,Total,Year
 46,Pakistan,0,0,1,1,1988
 46,Philippines,0,0,1,1,1988
 46,Thailand,0,0,1,1,1988
-1,Unified Team,45,38,29,112,1992
 2,United States,37,34,37,108,1992
 3,Germany,33,21,28,82,1992
 4,China,16,22,16,54,1992
@@ -739,7 +738,6 @@ Rank,NOC,Gold,Silver,Bronze,Total,Year
 41,South Africa,0,2,0,2,1992
 44,Belgium,0,1,2,3,1992
 44,Croatia,0,1,2,3,1992
-44,Independent Olympic Participants,0,1,2,3,1992
 44,Iran,0,1,2,3,1992
 48,Israel,0,1,1,2,1992
 49,Chinese Taipei,0,1,0,1,1992
@@ -1215,7 +1213,6 @@ Rank,NOC,Gold,Silver,Bronze,Total,Year
 48,Vietnam,1,1,0,2,2016
 50,Chinese Taipei,1,0,2,3,2016
 51,Bahamas,1,0,1,2,2016
-51,Independent Olympic Athletes,1,0,1,2,2016
 51,Ivory Coast,1,0,1,2,2016
 54,Fiji,1,0,0,1,2016
 54,Jordan,1,0,0,1,2016
@@ -1430,7 +1427,6 @@ Rank,NOC,Gold,Silver,Bronze,Total,Year
 84,Ivory Coast,0,0,1,1,2024
 84,Peru,0,0,1,1,2024
 84,Qatar,0,0,1,1,2024
-84,Refugee Olympic Team,0,0,1,1,2024
 84,Singapore,0,0,1,1,2024
 84,Slovakia,0,0,1,1,2024
 84,Zambia,0,0,1,1,2024
