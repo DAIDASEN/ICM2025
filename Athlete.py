@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 import  pycountry
 # 读取数据
-df = pd.read_csv('NEW_MEDAL_TABLE.csv')
-df_participants = pd.read_csv('each_country_each_year_count_entries.csv')
+df = pd.read_csv('2025_Problem_C_Data/NEW_MEDAL_TABLE.csv')
+df_participants = pd.read_csv('2025_Problem_C_Data/each_country_each_year_count_entries.csv')
 
 # 初始化 Participants 列
 df['Participants'] = np.nan
