@@ -24,10 +24,9 @@ def clean_list(mixed_list):
 for i in range(noc_years.shape[0]):
     year = noc_years.iloc[i]['Year']
     noc = noc_years.iloc[i]['NOC']
+    windows[noc] = []
     if len(year) < 3:
         continue
-
-    windows[noc] = []
     for j in range(3, len(year)-1):
         tmp_ls = []
         if year[j] == year[j-1]+4 and year[j] == year[j-2]+8 and year[j] == year[j-3]+12:
@@ -47,6 +46,8 @@ for i in range(noc_years.shape[0]):
             row = find.iloc[0].drop(['Year', 'NOC', 'Rank', 'Participants']).tolist()
             row = [item.item() if isinstance(item, np.generic) else item for item in row]
             tmp_ls = clean_list(tmp_ls)
+            flag = row[-1]
+            tmp_ls.append(flag)
             row = clean_list(row)
             tmp = {}
             tmp['Feats'] = tmp_ls

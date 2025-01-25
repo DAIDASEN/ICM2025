@@ -1,7 +1,7 @@
 import pandas as pd
 import pycountry
 import numpy as np
-maindf = pd.read_csv('NEW_MEDAL_TABLE_WITH_PARTICIPANTS.csv')
+maindf = pd.read_csv('2025_Problem_C_Data/NEW_MEDAL_TABLE_WITH_PARTICIPANTS.csv')
 GDP = pd.read_csv('2025_Problem_C_Data/GDP.csv')
 POP = pd.read_csv('2025_Problem_C_Data/Population.csv')
 custom_mapping = {
