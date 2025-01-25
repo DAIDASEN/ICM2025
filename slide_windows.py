@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import json
 # 假设你的数据已经被加载到一个 DataFrame 中
 
 df = pd.read_csv('Final_table.csv')
@@ -54,4 +55,7 @@ for i in range(noc_years.shape[0]):
         else:
             continue
 
-print(windows)
+# json_str = json.dumps(windows)
+with open("data.json", "w", encoding="utf-8") as json_file:
+    json.dump(windows, json_file, indent=4)
+# print(json_str)
