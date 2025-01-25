@@ -57,6 +57,7 @@ maindf['Population'] = np.nan
 for i in range(maindf.shape[0]):
     row = maindf.iloc[i]
     year = row['Year']
+
     noc_code = row['NOC']
     if year < 1960 or year > 2020:
         continue
