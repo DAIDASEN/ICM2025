@@ -76,7 +76,7 @@ df_tmp.to_csv('NEW_MEDAL_TABLE_WITH_PARTICIPANTS.csv')
 # print("包含 NaN 值的行：")
 # print(nan_rows)
 # nan_noc = nan_rows['NOC'].drop_duplicates()
-# nan_noc.to_csv('tmp.csv')
+# nan_noc.to_csv('2024_True.csv')
 # print(len(nan_noc))
 
 # def ioc_to_iso(code):
