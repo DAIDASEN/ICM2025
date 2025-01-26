@@ -3,7 +3,7 @@ import numpy as np
 import json
 # 假设你的数据已经被加载到一个 DataFrame 中
 
-df = pd.read_csv('Final_table.csv')
+df = pd.read_csv('2025_Problem_C_Data/Final_table.csv')
 
 # 创建一个以 NOC 为索引的 DataFrame，并获取每个 NOC 对应的参赛年份
 noc_years = df.groupby('NOC')['Year'].apply(list).reset_index()
