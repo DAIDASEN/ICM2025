@@ -55,6 +55,7 @@ for i in range(noc_years.shape[0]):
             windows[noc].append(tmp)
         else:
             continue
+    j = len(year)
 
 # json_str = json.dumps(windows)
 with open("data.json", "w", encoding="utf-8") as json_file:
